@@ -47,7 +47,7 @@ The next phase of this analysis focused on filtering the dataset of over [4 mill
  * 5 -Star Non-Vine Reviews: **1,676,546**
  * Percentage of Non-Vine 5-Star Reviews: **70%**
 
-<p align="center"> <b><i>Unpaid Reviews, snapshot</b></i> 
+<p align="center"> <b><i>Unpaid Reviews Snapshot</b></i> 
  </p>
 <p align="center">
  <img align="center" src="images/unpaid_reviews_snapshot.png">
