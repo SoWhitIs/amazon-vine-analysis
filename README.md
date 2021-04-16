@@ -1,9 +1,11 @@
-# _A Gift For A Review?_ || Amazon Vine Review Analysis
+# _A Gift For A Review?_ || Amazon Vine Reviews Analysis
 
 ## Overview of Analysis
 
 $ellBy(SellBy) is on schedule to launch a myriad of products on a major online retailer. In addition to launch, $ellBy(SellBy) stakeholders are looking to enroll in Amazon Vine, an incentivize (invitation-only) review program, where select customers are given a free product to review. 
+
 Having to pay a nominal fee to Amazon to participate, $ellBy (SellBy) is interested in whether partaking in the former would present a potential investment opportunity for the growth of the company. Afterall, the more reviews, namely positive, of a specific product, and/or, like offerings to $ellBy’s (SellBy) competitors, the likelihood there will be success in sales.
+
 To prove or disapprove this assertion, an analysis of unpaid versus Amazon Vine (paid) reviews on music purchases was performed. 
 
 ## Resources
@@ -55,6 +57,7 @@ The next phase of this analysis focused on filtering the dataset of over [4 mill
 
 ## Summary: _Is_ there bias?
 In short, with the current dataset, there does not appear to be any inclination that participation in the Amazon Vine program would equate to true value for $ellby (SellBy). 
+
 The difference between Amazon Vine paid reviews, and unpaid reviews is quite substantial. Amazon Vine paid 5-star reviews made up only 22%, while unpaid 5-star reviews accounted for an overwhelming 70%. 
 
 However, a review of one dataset may not be enough to support the above claim, and therefore would suggest performing a few more analyses on various datasets (varying product offerings) based on the on the proceeding observations.  
@@ -63,9 +66,11 @@ However, a review of one dataset may not be enough to support the above claim, a
 
 (1) Amazon Vine is an invitation-only program by which reviewers are vetted. (More information about the Amazon Vine program can be found, [here.]( https://www.amazon.com/gp/vine/help)) This possibly could have an effect how products are “seen” or distributed for review. 
 
-(2) Type of Product: Current analysis, as mentioned, was done on music purchases. The use-case that music presents will considerably be different from a product that exist for another purpose, i.e., watch, television, etc.  It is likely the ratio of paid versus un-paid reviews could vary across products. 
+(2) Type of Product: Current analysis, as mentioned, was done on music purchases. The use-case that music presents will considerably be different from a product that exist for another purpose, i.e., watch, television, etc.  Additionally, it is likely the ratio of paid versus un-paid reviews could vary across products. 
+
 #
 #### Author
+
 _Whitney D. Gardner_
 
 
