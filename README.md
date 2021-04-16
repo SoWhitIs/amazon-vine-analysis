@@ -58,7 +58,7 @@ The next phase of this analysis focused on filtering the dataset of over [4 mill
 ## Summary: _Is_ there bias?
 In short, with the current dataset, there does not appear to be any inclination that participation in the Amazon Vine program would equate to true value for $ellby (SellBy). 
 
-The difference between Amazon Vine paid reviews, and unpaid reviews is quite substantial. Amazon Vine paid 5-star reviews made up only 22%, while unpaid 5-star reviews accounted for an overwhelming 70%. 
+The difference between Amazon Vine paid reviews, and unpaid reviews is quite substantial. Amazon Vine paid 5-star reviews made up only 22%, while unpaid 5-star reviews accounted for an overwhelming, 70%. 
 
 However, a review of one dataset may not be enough to support the above claim, and therefore would suggest performing a few more analyses on various datasets (varying product offerings) based on the on the proceeding observations.  
 
