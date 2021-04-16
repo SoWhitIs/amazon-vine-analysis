@@ -30,9 +30,9 @@ The next phase of this analysis focused on filtering the dataset of over [4 mill
 **Reviews _By_ The Numbers**
 
 **Paid Vine Reviews**
-* Vine Reviews (in total): 709
-* 5-Star Vine Reviews: 159
-* Percentage of Vine 5-Star Reviews: 22%
+* Vine Reviews (in total):**709**
+* 5-Star Vine Reviews: **159**
+* Percentage of Vine 5-Star Reviews: **22%**
 
 <p align="center"> <b><i>Vine Paid Reviews Snapshot</b></i> 
  </p>
@@ -43,9 +43,9 @@ The next phase of this analysis focused on filtering the dataset of over [4 mill
 #
 
 **Non-Paid Reviews**
- * Non-paid Vine Reviews (in total): 2,386,061
- * 5 -Star Non-Vine Reviews: 1,676,546
- * Percentage of Non-Vine 5-Star Reviews: 70%
+ * Non-paid Vine Reviews (in total): **2,386,061**
+ * 5 -Star Non-Vine Reviews: **1,676,546**
+ * Percentage of Non-Vine 5-Star Reviews: **70%**
 
 <p align="center"> <b><i>Unpaid Reviews, snapshot</b></i> 
  </p>
